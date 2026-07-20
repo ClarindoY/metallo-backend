@@ -1,0 +1,44 @@
+================================================================
+ METALLO IA — instalação para a equipe
+================================================================
+
+Existem DOIS jeitos de deixar o sistema na Área de Trabalho.
+Escolha conforme o computador:
+
+----------------------------------------------------------------
+ OPÇÃO 1 — SÓ O ATALHO ONLINE (recomendado p/ a equipe)
+----------------------------------------------------------------
+ Usa o sistema que já roda no Render, pelo navegador.
+ Não instala nada no computador.
+
+ 1. Copie esta pasta para o computador (qualquer lugar).
+ 2. Duplo clique em  ATALHO_ONLINE.bat
+ 3. Cole a URL do sistema (ex.: https://metallo-ia.onrender.com)
+ 4. Pronto: ícone "METALLO IA Online" na Área de Trabalho.
+
+ Dica: preencha o arquivo url_online.txt com a URL uma vez e
+ os próximos computadores nem perguntam.
+
+----------------------------------------------------------------
+ OPÇÃO 2 — INSTALAÇÃO LOCAL COMPLETA
+----------------------------------------------------------------
+ Roda o sistema no próprio computador (funciona sem internet
+ depois de instalado). Precisa do Python.
+
+ 1. Instale o Python 3.12 (python.org) marcando
+    "Add python.exe to PATH".
+ 2. Copie esta pasta para o computador
+    (sugestão: C:\METALLO_IA — não use a Lixeira/Downloads).
+ 3. Duplo clique em  INSTALAR_METALLO.bat  (uma vez só).
+ 4. Pronto: ícone "METALLO IA" na Área de Trabalho.
+    Duplo clique abre o sistema no navegador sozinho.
+
+ Para PARAR o sistema local: feche a janela preta.
+
+----------------------------------------------------------------
+ Observações
+----------------------------------------------------------------
+ - O ícone usa o logo da pasta metallo_cad\assets\metallo.ico.
+ - Logo/empresa dos PDFs mudam na aba ⚙️ Configurações do app.
+ - Atualizações: substitua os arquivos da pasta pelos novos
+   (ou git pull) — o atalho continua valendo.
